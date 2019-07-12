@@ -1,4 +1,9 @@
+
 # Multigrid
+Compile:
+
+     mex multigrid_c.c multigrid.c
+
 ![GitHub Logo](untitled.png)
 
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
